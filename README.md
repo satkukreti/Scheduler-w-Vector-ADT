@@ -3,7 +3,7 @@
 A text based application that creates and manages students, their courses, and the course roster using my own implementation of a vector ADT. The goal of this project was to:
 
 - Familarize with separating code into modules
-- Implementing a vector ADT
+- Implemente a vector ADT
 - Learn regular expressions
 
 ## Introduction
