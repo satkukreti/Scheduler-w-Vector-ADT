@@ -23,6 +23,6 @@ Contains the following targets:
   
 ## Runtime Example
 
-## Credit
+## Aknowledgements
 
 The first "hard" project in CS310. The credit for this idea goes to Professor Mike Lewis of Binghamton University. The implementation of the code was completely my own.
